@@ -63,7 +63,7 @@ namespace xadrez_console
         {
             if (peca == null)
             {
-                Console.Write(" - ");
+                Console.Write("_ ");
             }
 
             else
